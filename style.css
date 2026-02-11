@@ -660,12 +660,12 @@ body.theme-slider--is--visible .app-aside .option.theme .dot:nth-child(1)  { tra
 .section.work .hero-image figure {
   position: relative;
 
-  -webkit-mask-image: url("../assets/work/Billy-Sweeney-work-collage-shape.svg");
+  -webkit-mask-image: url("");
   -webkit-mask-size: contain;
   -webkit-mask-position: center;
   -webkit-mask-repeat: no-repeat;
 
-  mask-image: url("../assets/work/Billy-Sweeney-work-collage-shape.svg");
+  mask-image: url("");
   mask-size: contain;
   mask-position: center;
   mask-repeat: no-repeat;
@@ -674,19 +674,19 @@ body.theme-slider--is--visible .app-aside .option.theme .dot:nth-child(1)  { tra
   width: 100vw;
   padding-bottom: 205.556%;
 
-  background-image: url("../assets/work/Billy-Sweeney-work-collage-1440.jpg");
+  background-image: url("");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
 }
 @media all and (min-width: 1000px) {
   .section.work .hero-image .image {
-    background-image: url("../assets/work/Billy-Sweeney-work-collage-2880.jpg");
+    background-image: url("");
   }
 }
 @media all and (min-width: 2000px) {
   .section.work .hero-image .image {
-    background-image: url("../assets/work/Billy-Sweeney-work-collage-5760.jpg");
+    background-image: url("");
   }
 }
 .section.work .hero-image .image-overlay-01,
